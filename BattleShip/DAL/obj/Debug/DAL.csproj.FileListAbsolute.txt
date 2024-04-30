@@ -1,0 +1,6 @@
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\DAL\bin\Debug\DAL.dll
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\DAL\bin\Debug\DAL.pdb
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\DAL\obj\Debug\DAL.dll
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\DAL\obj\Debug\DAL.pdb

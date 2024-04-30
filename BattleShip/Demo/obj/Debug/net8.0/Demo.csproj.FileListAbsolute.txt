@@ -1,0 +1,14 @@
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\bin\Debug\net8.0\Demo.exe
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\bin\Debug\net8.0\Demo.deps.json
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\bin\Debug\net8.0\Demo.dll
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\bin\Debug\net8.0\Demo.pdb
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\obj\Debug\net8.0\Demo.dll
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\obj\Debug\net8.0\refint\Demo.dll
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\obj\Debug\net8.0\Demo.pdb
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+C:\Users\kennedy.njuguna\source\repos\kennedy-njuguna1\BattleShip\Demo\obj\Debug\net8.0\ref\Demo.dll

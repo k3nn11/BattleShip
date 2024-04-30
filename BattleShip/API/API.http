@@ -1,0 +1,14 @@
+@API_HostAddress = http://localhost:5236
+
+
+GET {{API_HostAddress}}/user/
+
+Content-Type : application/json
+
+{
+  "Id": 1,
+  "firstname": "ken",
+  "lastname": "Githua",
+
+}
+
